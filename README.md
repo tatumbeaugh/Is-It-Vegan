@@ -32,6 +32,12 @@ the data
 
 * 0.1
     * Initial Release
+ 
+## Potential Features
+
+* adding additional websites for data retrieval
+* add decription reading
+* add ability to read full recipes
 
 ## License
 
@@ -43,3 +49,4 @@ Inspiration, code snippets, etc.
 * [is-vegan](https://github.com/hmontazeri/is-vegan)
 * [geeksforgeeks](https://www.geeksforgeeks.org/python-web-scraping-tutorial/)
 * [veganPeace](https://www.veganpeace.com/ingredients/ingredients.htm)
+* [READMETempplate](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
