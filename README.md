@@ -10,11 +10,11 @@ This program uses a web scraper to compare the users data to the data on a websi
 
 ### Dependencies
 
-* Requests - Used to send HTTP requests
+Requests - Used to send HTTP requests
 * command: $ python -m pip install requests
 * link for more information: https://requests.readthedocs.io/en/latest/user/install/#install
 
-* BeautifulSoup - Used to pull data from HTTP files
+BeautifulSoup - Used to pull data from HTTP files
 * command: pip install beautifulsoup4
 * link for more information: https://pypi.org/project/beautifulsoup4/ 
 
@@ -24,9 +24,9 @@ This program uses a web scraper to compare the users data to the data on a websi
 
 ## Help
 
-* Some ingredients may not be in the list, if the ingredient is a vitamin and has another common name or 
-* visa versa try to use the alternate name. If it still doesnt work than the ingredient isn't included in 
-* the data
+Some ingredients may not be in the list, if the ingredient is a vitamin and has another common name or 
+visa versa try to use the alternate name. If it still doesnt work than the ingredient isn't included in 
+the data
 
 ## Version History
 
